@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+@theme {
+  --bg-banner: #003b95;
+}
