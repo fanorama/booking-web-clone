@@ -1,0 +1,125 @@
+{
+    "destinations": [
+        {
+            "id": 1,
+            "name": "Bali",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 30 
+        },
+        {
+            "id": 2,
+            "name": "Lombok",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 20
+        },
+        {
+            "id": 3,
+            "name": "Yogyakarta",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 10
+        },
+        {
+            "id": 4,
+            "name": "Jakarta",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 5
+        },
+        {
+            "id": 5,
+            "name": "Bandung",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 5
+        },
+        {
+            "id": 6,
+            "name": "Surabaya",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 5
+        },
+        {
+            "id": 7,
+            "name": "Malang",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 5
+        },
+        {
+            "id": 8,
+            "name": "Bogor",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 5
+        },
+        {
+            "id": 9,
+            "name": "Semarang",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 5
+        },
+        {
+            "id": 10,
+            "name": "Makassar",
+            "image": "https://dummyjson.com/image/200",
+            "properties_count": 5
+        }
+    ],
+    "property_types": [
+        {
+            "id": 1,
+            "name": "Hotel",
+            "image": "https://dummyjson.com/image/200"
+        },
+        {
+            "id": 2,
+            "name": "Villa",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        },
+        {
+            "id": 3,
+            "name": "Resort",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        },
+        {
+            "id": 4,
+            "name": "Hostel",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        },
+        {
+            "id": 5,
+            "name": "Guest House",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        },
+        {
+            "id": 6,
+            "name": "Apartement",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        },
+        {
+            "id": 7,
+            "name": "Homestay",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        },
+        {
+            "id": 8,
+            "name": "Cottage",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        },
+        {
+            "id": 9,
+            "name": "Bungalow",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        },
+        {
+            "id": 10,
+            "name": "Inn",
+            "image": "https://dummyjson.com/image/200",
+            "availables_count": 10
+        }
+    ]
+}

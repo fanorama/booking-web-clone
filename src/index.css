@@ -1,5 +1,27 @@
 @import "tailwindcss";
 
 @theme {
-  --bg-banner: #003b95;
+  --color-b-blue: #013b95;
+  --color-b-orange: #efb848;
+  --color-b-green: #008133;
+
+  --color-button-primary: #036ce4;
+  --color-button-secondary: #f7f7f7;
+}
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+.container {
+  @apply w-full max-w-6xl mx-auto p-3;
+}
+.navbar-button {
+  @apply px-[18px] py-[10px] cursor-pointer rounded-full text-white relative;
+
+  &:hover {
+    @apply before:rounded-full before:content-[''] before:absolute before:inset-0 before:bg-white before:opacity-10 before:w-full before:h-full;
+  }
+
+  &.active {
+    @apply border before:rounded-full before:content-[''] before:absolute before:inset-0 before:bg-white before:opacity-10 before:w-full before:h-full;
+  }
 }
